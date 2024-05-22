@@ -1,0 +1,3 @@
+requests
+pytchat
+urlib.parse
